@@ -25,12 +25,3 @@ var itemDescription = ["1975 Green Bay Packers Football(signed) Item 10582",
 
 var itemPrice = [149.93, 89.98, 334.93, 22.67];
 var itemQty = [1, 1, 1, 4];
-
-
-
-
-
-
-var print;
-
-document.getElementById("print").innerHTML = print;
